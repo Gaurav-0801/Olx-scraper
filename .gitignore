@@ -33,8 +33,6 @@ ENV/
 *~
 
 # Output files
-*.json
-*.csv
 *.log
 
 # OS
